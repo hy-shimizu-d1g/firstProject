@@ -1,0 +1,12 @@
+vim: vim is God!!
+vi: let's use Vim!!
+vscode: vscode is too heavy... use Vim!!
+atom: Atom Was gone
+sublineText: sublinetext has done its job. use Vim!
+sakura: sa..kura??? Who's that?
+emacs: Good. Then it's war.
+telapad: you ...Fossil Age? Use Vim!
+notePad: Are you a hermit?
+visualstudio: Oh ... Are You a Microsoft Dog?
+XCode: Oh... Are you a Apple Dog?
+JetBrains: Oh... That's too heavy.And to Expensive. Vim is Free!!
